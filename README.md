@@ -1,3 +1,3 @@
-# project
+# Project
 my first repository
-author- angel rajput
+Author- Angel Rajput
